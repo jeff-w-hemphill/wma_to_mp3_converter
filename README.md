@@ -25,7 +25,7 @@ Open the Terminal app.
 2. Run the following command to install ffmpeg: sudo apt-get install ffmpeg
 3. Alternatively, you can also download the source code from the official website and compile it yourself, but this requires more advanced knowledge and is not recommended for beginners.
 
-# Place ```convert.sh``` into directory of folder you want recursive convert and navigate to that directory.
+# Place ```convert.sh``` into directory of the folder you want to recursively convert and navigate to that directory.
 
 # Run the following commands:
 
